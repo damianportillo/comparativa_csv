@@ -105,3 +105,7 @@ Polars - Tiempo: 0.0554 s | Memoria: 138.43 MiB
 - https://psutil.readthedocs.io/
 - https://matplotlib.org/
 - https://bigocheatsheet.com/
+
+---
+
+## 📺 Video de YouTube: https://youtu.be/HCZi-JLgFCw
